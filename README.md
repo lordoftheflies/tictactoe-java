@@ -1,5 +1,5 @@
 # Simple TicTacToe Game #
-by Tim Tsu
+by László Hegedűs
 
 ## Getting started ##
 ### Prerequisites ###
