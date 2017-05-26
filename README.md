@@ -1,4 +1,4 @@
-# Simple TicTacToe Game #
+﻿# Simple TicTacToe Game #
 by László Hegedűs
 
 ## Getting started ##
@@ -13,3 +13,7 @@ by László Hegedűs
 #### Gradle ####
     gradle installApp
     ./build/install/tictactoe-java/bin/tictactoe-java
+
+
+
+Újabb verzió, csak hogy lásd vltozott.
